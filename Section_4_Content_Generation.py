@@ -30,6 +30,7 @@ writer = autogen.AssistantAgent(
 editor = autogen.AssistantAgent(
     name="Editor",
     llm_config=llm_config_editor,
+    code_execution_config={"use_docker": False},
     system_message="Your task is to correct the article submitted by the writer. Check if the information is accurate. Do not rewrite the article, instead create a list of adjustments to be made, make it relatively short."
 )
 

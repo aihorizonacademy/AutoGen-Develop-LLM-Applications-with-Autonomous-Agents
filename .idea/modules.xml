@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Autogen.iml" filepath="$PROJECT_DIR$/.idea/Autogen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AutoGen-Develop-LLM-Applications-with-Autonomous-Agents.iml" filepath="$PROJECT_DIR$/.idea/AutoGen-Develop-LLM-Applications-with-Autonomous-Agents.iml" />
     </modules>
   </component>
 </project>
