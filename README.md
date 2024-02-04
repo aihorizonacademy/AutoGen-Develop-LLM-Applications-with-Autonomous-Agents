@@ -1,6 +1,6 @@
 This repository contains the source code for AutoGen Develop LLM Applications with Autonomous Agents course.
 
-# Prerequisites:
+## Prerequisites:
 Python version >= 3.8, < 3.13
 
 ## Autogen Installation:
